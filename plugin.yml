@@ -1,0 +1,13 @@
+name: GS
+version: 1.1
+api-version: 1.13
+main: de.blitzmc.Main
+author: TheInfectedWolf
+commands:
+  build:
+    permission: system.plot.build
+  plot:
+  wartung:
+    permission: system.plot.wartung
+  sperren:
+    permission: system.sperren
